@@ -1,21 +1,38 @@
 ## Hi there 👋
-<!--
-**Dust4399/Dust4399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Dust的个人主页
+
+## 自我介绍
+
+欢迎来到我的主页，我是Dust，一名大三的大数据专业学生，现就读于福州大学，对大数据处理分析，机器学习，ai等方面的技术有浓厚兴趣。
+
+
+
+### 技术技能
+具备一定的数据处理技术，熟悉hadoop ，sql等工具，掌握基础的编程，有积极主动的学习态度和较强的学习能力。
+### 编程语言
+
+- **Python**: 目前在学习数据处理、爬虫等技术。
+- **Java**: 掌握面向对象编程，熟悉Spring框架。
+- **C语言**: 具备基本的算法与数据结构能力，正在学习LinuxC语言编程。
+
+
+
+### 感兴趣的学习方向
+
+- **人工智能与机器学习**: 希望深入学习神经网络、深度学习模型的原理及应用，掌握TensorFlow或PyTorch等框架。
+- **大数据处理**: 对Hadoop、Spark等大数据处理技术感兴趣，想要学习如何处理和分析海量数据。
+- **区块链技术**: 对区块链的底层技术、智能合约开发有兴趣，想要探索其在金融科技等领域的应用。
+
+
+### 兴趣爱好
+
+- **阅读**: 喜欢文学书籍，小说，以此来提升知识面和放松心情。
+- **编程**: 享受编写代码的过程，乐于参与开源项目，持续学习新的编程技术。
+- **运动**: 热爱跑步、乒乓球，通过运动保持身体健康与精力充沛。
+- **音乐**: 喜欢听音乐，特别是轻音乐。
+
+### 未来规划
+
+- **短期目标**: 完成软件工程课程以及大三众多实践课的学习，提升专业技能水平。
+- **长期目标**: 未来三年内希望成为大数据技术领域的优秀从业者，在技术深度和项目实践中持续成长，并探索更多创新性技术应用。
